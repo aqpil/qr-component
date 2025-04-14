@@ -23,8 +23,8 @@ The challenge was to build the QR code component as closely to the provided desi
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aqpil/qr-component)
-- Live Site URL: [Add live site URL here](https://aqpil.github.io/qr-component/)
+- Solution URL: [Github Repository](https://github.com/aqpil/qr-component)
+- Live Site URL: [Solution URL](https://aqpil.github.io/qr-component/)
 
 ## My Process
 
@@ -52,7 +52,3 @@ The biggest takeaway from this project was working with Figma. I followed the de
 ## Author
 
 - Frontend Mentor - [@aqpil](https://www.frontendmentor.io/profile/aqpil)
-
-```
-
-```
