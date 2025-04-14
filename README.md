@@ -42,6 +42,7 @@ The biggest takeaway from this project was working with Figma. I followed the de
     ...
     box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
 }
+```
 
 ### Useful resources
 
@@ -51,4 +52,7 @@ The biggest takeaway from this project was working with Figma. I followed the de
 ## Author
 
 - Frontend Mentor - [@aqpil](https://www.frontendmentor.io/profile/aqpil)
+
+```
+
 ```
